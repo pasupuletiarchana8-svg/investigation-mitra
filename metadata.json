@@ -1,0 +1,8 @@
+{
+  "name": "Investigation Mitra",
+  "description": "Fast insurance company document search and fraud detection system for claims and verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
